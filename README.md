@@ -13,11 +13,11 @@ Hoping that some of the learnings will carry over to any Elixir Projects I under
 ### Done: 
 
 - [1 How To Dive Into A Code Base](https://github.com/J0/erlang-in-anger-notes/tree/master/1_how_to_dive_into_a_code_base)
+- [2 Building Open Source Erlang Software](https://github.com/J0/erlang-in-anger-notes/tree/master/2_building_open_source_software)
 
 
 ### WIP:
 
-- [2 Building Open Source Erlang Software]
 - [3 Planning For Overload]
 - [4 Connecting To Remote Nodes]
 - [5 Runtime Metrics]
