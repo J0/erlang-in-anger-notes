@@ -13,7 +13,10 @@ Hoping that some of the learnings will carry over to any Elixir Projects I under
 ### Done: 
 
 - [1 How To Dive Into A Code Base](https://github.com/J0/erlang-in-anger-notes/tree/master/1_how_to_dive_into_a_code_base)
-- [2 Building Open Source Erlang Software](https://github.com/J0/erlang-in-anger-notes/tree/master/2_building_open_source_software)
+- [2 Building Open Source Erlang Software(Hands-on WIP)](https://github.com/J0/erlang-in-anger-notes/tree/master/2_building_open_source_software)
+- [6 Reading Crash Dumps](https://github.com/J0/erlang-in-anger-notes/tree/master/6_reading_crash_dumps)
+- [8 CPU and Scheduler Hogs(Hands-on WIP)](https://github.com/J0/erlang-in-anger-notes/tree/master/8_cpu_scheduler_hogs)
+
 
 
 ### WIP:
@@ -21,7 +24,5 @@ Hoping that some of the learnings will carry over to any Elixir Projects I under
 - [3 Planning For Overload]
 - [4 Connecting To Remote Nodes]
 - [5 Runtime Metrics]
-- [6 Reading Crash Dumps]
 - [7 Memory Leaks]
-- [8 CPU and Scheduler Hogs]
 - [9 Tracing]
