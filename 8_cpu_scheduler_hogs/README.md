@@ -1,3 +1,5 @@
+# 8 CPU Scheduler Hogs
+
 ## Review Questions (Theory)
 1. What are the two main approaches to pin issues about CPU usages?
  

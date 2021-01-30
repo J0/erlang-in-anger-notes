@@ -24,5 +24,5 @@ Hoping that some of the learnings will carry over to any Elixir Projects I under
 ### WIP:
 
 - [5 Runtime Metrics]
-- [7 Memory Leaks]
-- [9 Tracing]
+- [7 Memory Leaks](https://github.com/J0/erlang-in-anger-notes/tree/master/7_memory_leaks)
+- [9 Tracing](https://github.com/J0/erlang-in-anger-notes/tree/master/9_tracing)
