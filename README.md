@@ -17,12 +17,12 @@ Hoping that some of the learnings will carry over to any Elixir Projects I under
 - [3 Planning For Overload](https://github.com/J0/erlang-in-anger-notes/tree/master/3_planning_for_overload)
 - [4 Connecting To Remote Nodes](https://github.com/J0/erlang-in-anger-notes/tree/master/4_connecting_to_remote_nodes)
 - [6 Reading Crash Dumps](https://github.com/J0/erlang-in-anger-notes/tree/master/6_reading_crash_dumps)
+- [7 Memory Leaks(Hands-on WIP)](https://github.com/J0/erlang-in-anger-notes/tree/master/7_memory_leaks)
 - [8 CPU and Scheduler Hogs(Hands-on WIP)](https://github.com/J0/erlang-in-anger-notes/tree/master/8_cpu_scheduler_hogs)
 
 
 
 ### WIP:
 
-- [5 Runtime Metrics]
-- [7 Memory Leaks](https://github.com/J0/erlang-in-anger-notes/tree/master/7_memory_leaks)
+- [5 Runtime Metrics](https://github.com/J0/erlang-in-anger-notes/tree/master/5_runtime_metrics)
 - [9 Tracing](https://github.com/J0/erlang-in-anger-notes/tree/master/9_tracing)
