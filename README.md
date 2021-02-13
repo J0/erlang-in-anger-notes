@@ -27,3 +27,5 @@ Hoping that some of the learnings will carry over to any Elixir Projects I under
 
 - [5 Runtime Metrics](https://github.com/J0/erlang-in-anger-notes/tree/master/5_runtime_metrics)
 
+
+After reading through the book, I've come to the realization that it'd be better to go through [learn you some erlang](https://learnyousomeerlang.com/) and the [erlang exercisms](https://exercism.io/my/tracks/erlang) before doing the hands on so I'm going to proceed there before returning to finish up the hands on exercises for relevant chapters.
